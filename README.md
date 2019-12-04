@@ -4,7 +4,7 @@
 
 **Level:** 6   
 **XP:** 14000  
-**Class:** Rogue 4 (Thief), Artificer 2  
+**Class:** Rogue 4 (Thief), Artificer 2 (Artillerist)  
 **Hit Point Maximum:**   
 **Speed:** 30ft  
 **Initiative:**   
@@ -131,7 +131,7 @@ I am a psychopath, and highly addicted to the substance known as [Aether](Aether
 
 Oshoth is an unsavory character, working his craft for those who pay his fees and keep his addictions going. Having been dragged into captivity at an early age into the mystical factories of the mysterious BlackHull Shipping Company to service the massive secret arcomechanical devices that make BlackHull a true naval powerhouse. The work was dangerous but still safer than the bosses and other workers, you were either fighting the machines innards or fighting the larger folk for food.  
 
-Oshoth learned alot while huddled in those massive machines, about the way the world worked and how to bend it to his will. His tools were his brushes and those machines his canvas, consistent exemplary work lead to his promotion from indentured servitude to pit boss. Despite his small size Oshoth gave those under his command a reason to fear him, constant productivity increases were expected and he would do anything to meet the quotas, even kill. His knowledge gained from the machines brought him an arcomechanical weapon that acted as a force multiplier for him and his guards.
+Oshoth learned alot while huddled in those massive machines, about the way the world worked and how to bend it to his will. His tools were his brushes and those machines his canvas, consistent exemplary work lead to his promotion from indentured servitude to pit boss. Despite his small size Oshoth gave those under his command a reason to fear him, constant productivity increases were expected and he would do anything to meet the quotas, even kill. His knowledge gained from the machines brought him the inspiration to make an arcomechanical ranged weapon that acted as a force multiplier for him and his guards.
 
 Oshoth's newfound power brought him many things he never experienced, including the psychedelic magical drug Aether. Aether was made by empowering gems and powdering them with a thick sludge made from swamp peat and a benign poison and provided the user with many effects. Oshoth smoked the drug constantly through his long copper pipe for it heightened his ability to see the magic in the air and produced a sharp high that made you seem indestructible. It did far worse however and made Oshoth dependent on it, making him exhausted when it was taken away. The power was intoxicating for Oshoth, but nothing lasts forever.
 
