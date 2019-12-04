@@ -1,7 +1,5 @@
 # ![DnDLogo](https://i.imgur.com/EGad7jq.png) Oshoth
 
----
-
 ## Basic
 
 **Level:** 6   
@@ -14,8 +12,6 @@
 **Proficiency Bonus:** +3  
 **Carrying Capacity:**   
 **Inspiration:**   
-
----
 
 ## Combat
 
@@ -30,8 +26,6 @@ Hit:
 Attack: 1d12 Piercing   
 Range:   
 Properties: Loading, Two-Handed
-
----
 
 ## Abilities
 
@@ -67,8 +61,6 @@ Sleight of Hand  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +9 | ![check]
 Stealth  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +9 | ![check](https://i.imgur.com/84fRg7x.png) | ![check](https://i.imgur.com/84fRg7x.png) | 19
 Survival  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +6 | ![check](https://i.imgur.com/84fRg7x.png) | ![check](https://i.imgur.com/84fRg7x.png) | 16
 
----
-
 ## Proficiencies
 
 Proficiency | Type | Expertise
@@ -85,8 +77,6 @@ Shortsword  | ![Weapon](https://i.imgur.com/mdTmYEk.png) |
 Light  | ![Armour](https://i.imgur.com/wCdi5Ro.png) |  
 
 **Languages:** Common, Gnomish, Dwarvish
-
----
 
 ## Features
 
@@ -106,8 +96,6 @@ Feature | Description
 **Airship's Passage** | When you need to, you can secure passage on an airship for yourself and your adventuring companions. You might fly on a ship your served on, or another you have good relations with. Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. You and your companions are expected to assist the crew during the voyage.
 **Sunlight Sensitivity** | You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight
 **Evasion** | When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
-
----
 
 ## Roleplaying
 
@@ -156,8 +144,6 @@ Work on the side plying his knowledge of magical machinery for unsavory types ke
 BlackHull Shipping Company [Old]:  
 Served as a Pit Boss for the Company. Worked operations involving the safe destruction of dangerous materials and overseeing the repair of the machines that kept the company running. The unfortunate fate of BlackHull's operations have labeled Oshoth dead and forgotten. They would be unlikely to help even if they made it to this continent.
 
----
-
 ## Inventory
 
 Platinum | Gold | Electrum | Silver | Copper
@@ -171,7 +157,5 @@ Item | Type | Amount | Worth | Weight | Attuned | Description
 **Total Weight:**
 
 #### Priceless Items
-
----
 
 ## Adventure Notes
