@@ -32,7 +32,7 @@ Cost | Damage | Weight | Range | Properties
 500g | 1d6 Piercing | 10 lbs | 20ft Cone | Brutal
 
 ### Letter of Resignation
-A small stylish hand rifle with an ivory handle and intricate runic carvings on the barrel. Only reserved for special cases where the worker is to unruly to keep employed.
+A small stylish hand rifle with an ivory handle and intricate runic carvings on the barrel. Only reserved for special cases where the worker is too unruly to keep employed.
 
 #### Stats
 
