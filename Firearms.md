@@ -10,7 +10,7 @@ These devices are rare works of the magical sciences designed by Oshoth and seve
 
 **Exemplary:** The craftmanship of the weapon is beautiful, giving a +1 bonus to Persuasion when dealing with commoners.
 
-**Executor:** This weapon is made to remove workers from service, when the target is incapacitated and restrained and the weapon is fired point blank damage is increased to 2d10 Piercing.  
+**Executor:** This weapon is made to remove workers from service, when the target is incapacitated, restrained and the weapon is fired point blank, damage dice are doubled.  
 
 
 ### Longrange Synergistic Optimism Enhancer
