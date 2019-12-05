@@ -14,7 +14,7 @@ These devices are rare works of the magical sciences designed by Oshoth and seve
 
 
 ### Longrange Synergistic Optimism Enhancer
-A high powered magical rifle loaded through an exceptionally smooth breech mechanism, known for eschewing optimism in the BlackHull workers with the uncanny noise it produces upon firing. Some say it sounds like a screaming banshee.
+A high powered magical rifle with a large sighting mechanism loaded through an exceptionally smooth breech mechanism. Known for eschewing optimism in the BlackHull workers with the uncanny noise it produces upon firing. Some say it sounds like a screaming banshee.
 
 #### Stats
 
