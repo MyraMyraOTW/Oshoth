@@ -18,4 +18,6 @@ Aether while dangerous produces interesting effects when taken. The drug is boug
 The high of the drug overlays the users vision with that of the aethereal plane giving them an enhanced ability to sense magic. Some report a shimmer being seen on magical objects if one looks close enough. The drug also has the curious effect of making the user feel almost invulnerable. The users ability to sense magic via Arcana checks is increased by +1 and they gain resistance to fear.
 
 ##### The Low
-If the drug is not imbibed the next day the user suffers severe headaches and a pervasive pain that echoes to the soul. The user suffers two levels of exhaustion and takes 3d8 poison damage.
+If the drug is not imbibed the next day the user suffers severe headaches and a pervasive pain that echoes to the soul. The user suffers two levels of exhaustion and takes 3d8 poison damage.  
+
+The effects of the low occur every long rest for a week unless the user continues taking the drug, making chances of stopping addiction slim to none without magical assistance.
