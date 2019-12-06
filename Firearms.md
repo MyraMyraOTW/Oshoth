@@ -23,7 +23,7 @@ Cost | Damage | Weight | Range | Properties
 700g  | 1d12 Piercing | 8 lbs | 100/400 | Two-Handed, Fragile
 
 ### Motivation
-A dangerous weapon made for short range effective motivation of unruly BlackHull workers. This weapon fires short range grapeshot effective at motivating large crowds effectively.
+A dangerous weapon made for short range effective motivation of unruly BlackHull workers. This weapon fires short range grapeshot, effectively motivating large crowds.
 
 #### Stats
 
