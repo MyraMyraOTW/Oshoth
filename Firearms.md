@@ -38,7 +38,7 @@ A dangerous weapon made for short range effective motivation of unruly BlackHull
 
 Cost | Damage | Weight | Range | Properties
 --- | --- | --- | --- | ---
-500g | 2d8 Piercing | 10 lbs | 10/20 | Brutal, Loading
+500g | 2d6 Piercing | 10 lbs | 20/30 | Brutal, Loading
 
 ### Letter of Resignation
 A small stylish hand rifle with an ivory handle and intricate runic carvings on the barrel. Only reserved for special cases where the worker is too unruly to keep employed.
