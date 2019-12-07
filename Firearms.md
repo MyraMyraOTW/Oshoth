@@ -12,6 +12,13 @@ These devices are rare works of the magical sciences designed by Oshoth and seve
 
 **Executor:** This weapon is made to remove workers from service, when the target is incapacitated, restrained and the weapon is fired point blank, damage dice are doubled.  
 
+### Ammunition
+
+Since ammunition must be crafted due to scarcity the costs of materials needed are listed below.
+
+During a long rest, an individual skilled in Tinker's Tools may make 10 pieces of ammunition. Producing ammunition during a short rest is slower allowing an individual to produce 1d4 pieces.
+
+**Ammunition Materials Cost:** 2gp per piece of ammunition.  
 
 ### Longrange Synergistic Optimism Enhancer
 A high powered magical rifle with a large sighting mechanism loaded through an exceptionally smooth breech mechanism. Known for eschewing optimism in the BlackHull workers with the uncanny noise it produces upon firing. Some say it sounds like a screaming banshee.
@@ -20,7 +27,7 @@ A high powered magical rifle with a large sighting mechanism loaded through an e
 
 Cost | Damage | Weight | Range | Properties
 --- | --- | --- | --- | ---
-700g  | 1d12 Piercing | 8 lbs | 100/400 | Two-Handed, Fragile
+700g  | 1d12 Piercing | 8 lbs | 100/400 | Two-Handed, Loading, Fragile
 
 ### Motivation
 A dangerous weapon made for short range effective motivation of unruly BlackHull workers. This weapon fires short range grapeshot, effectively motivating large crowds.
@@ -29,7 +36,7 @@ A dangerous weapon made for short range effective motivation of unruly BlackHull
 
 Cost | Damage | Weight | Range | Properties
 --- | --- | --- | --- | ---
-500g | 1d6 Piercing | 10 lbs | 20ft Cone | Brutal
+500g | 1d6 Piercing | 10 lbs | 20ft Cone | Brutal, Loading
 
 ### Letter of Resignation
 A small stylish hand rifle with an ivory handle and intricate runic carvings on the barrel. Only reserved for special cases where the worker is too unruly to keep employed.
@@ -38,4 +45,4 @@ A small stylish hand rifle with an ivory handle and intricate runic carvings on 
 
 Cost | Damage | Weight | Range | Properties
 --- | --- | --- | --- | ---
-500g | 1d10 Piercing | 4 lbs | 40/160 | Exemplary, Executor
+500g | 1d10 Piercing | 4 lbs | 40/160 | Exemplary, Executor, Loading 5
