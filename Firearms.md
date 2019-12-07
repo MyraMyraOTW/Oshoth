@@ -10,8 +10,6 @@ These devices are rare works of the magical sciences designed by Oshoth and seve
 
 **Exemplary:** The craftmanship of the weapon is beautiful, giving a +1 bonus to Persuasion when dealing with commoners.
 
-**Executor:** This weapon is made to remove workers from service, when the target is incapacitated, restrained and the weapon is fired point blank, the weapon.  
-
 **Reload X:** When the weapon fires X amount of ammunition, the weapon must be reloaded with an Action.
 
 ## Ammunition
@@ -49,7 +47,7 @@ A small stylish hand rifle with an ivory handle and intricate runic carvings on 
 
 Cost | Damage | Weight | Range | Properties
 --- | --- | --- | --- | ---
-500g | 1d10 Piercing | 4 lbs | 40/160 | Exemplary, Executor, Reload 6
+500g | 1d10 Piercing | 4 lbs | 40/160 | Exemplary, Reload 6
 
 ## Feats
 
