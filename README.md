@@ -1,67 +1,60 @@
 # ![DnDLogo](https://i.imgur.com/EGad7jq.png) Oshoth
 
+![OSHOTH](https://i.imgur.com/vrFzJL3l.pngg)
+
 ## Basic
 
 ASI please use  
 
-**Level:** 6   
-**XP:** 14000  
-**Class:** Artificer 6 (Battle Smith)  
-**Hit Point Maximum:**   
+**Level:** 7   
+**XP:** 23,000  
+**Class:** Artificer 7 (Battle Smith)  
+**Hit Point Maximum:** 45  
 **Speed:** 30ft  
 **Initiative:**   
 **Hit Dice:** 6d8 (Used 0)  
 **Proficiency Bonus:** +3  
-**Carrying Capacity:**   
-**Inspiration:**   
+**Carrying Capacity:** 120  
+**Inspiration:** No  
 
 ## Combat
 
 ##### Health Tracker
-Hit Point Current:
-
-##### Armour
-Armour Class:
-
-##### Arcomechanical Longshot
-Hit:   
-Attack:  
-Range:   
-Properties: 
+Hit Point Current: 45
 
 ## Abilities
 
 Ability | Score | Bonus | Proficiency | Saving Throw  
 --- | --- | --- | --- | ---
-Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) |  |  |  |   
-Constitution |  |  | ![check](https://i.imgur.com/84fRg7x.png) |   
-Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) |  | +2 |  |   
-Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) |  |  | ![check](https://i.imgur.com/84fRg7x.png) |   
-Strength ![Strength](https://i.imgur.com/Fh83ei3.png) |  | -2 | |   
-Wisdom ![Wisdom](https://i.imgur.com/kCsdGv9.png) |  |  | |   
+Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 12 | +2 |  | +2  
+Constitution | 14 | +1 | ![check](https://i.imgur.com/84fRg7x.png) | +4  
+Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 12 | +1 |  | +1  
+Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 18 | +4 | ![check](https://i.imgur.com/84fRg7x.png) | +7  
+Strength ![Strength](https://i.imgur.com/Fh83ei3.png) | 8 | -1 | | -1  
+Wisdom ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 12 | +1 | | +1  
 
 ## Skills
 
 Skill | Ability | Bonus | Proficiency | Expertise
 --- | --- | --- | --- | ---
-Acrobatics  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +6 |   |  
-Animal Handling  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 0 |   |  
-Arcana  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 0 | ![check](https://i.imgur.com/84fRg7x.png) |  
-Athletics  | ![Strength](https://i.imgur.com/Fh83ei3.png) | -2 |   |  
-Deception  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +8 | ![check](https://i.imgur.com/84fRg7x.png) |  
-History  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 0 |   |   
-Insight  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 0 |   |   
-Intimidation  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |   |   
-Investigation  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 0 |   |   
-Medicine  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 0 |   |   
-Nature  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +6 |  |  
-Perception  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +3 | ![check](https://i.imgur.com/84fRg7x.png) |  
+Acrobatics  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |  
+Animal Handling  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |  
+Arcana  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +7 | ![check](https://i.imgur.com/84fRg7x.png) |  
+Athletics  | ![Strength](https://i.imgur.com/Fh83ei3.png) | -1 |   |  
+Deception  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 | ![check](https://i.imgur.com/84fRg7x.png) |  
+History  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |   
+Insight  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
+Intimidation  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 |  ![check](https://i.imgur.com/84fRg7x.png) |   
+Investigation  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |   
+Medicine  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
+Nature  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |  |  
+Perception  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |  |  
 Performance  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |   |  
-Persuasion  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 |  |  
-Religion  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 0 |   |  
-Sleight of Hand  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +9 | ![check](https://i.imgur.com/84fRg7x.png) |  
-Stealth  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +9 |   |  
-Survival  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +6 |   |  
+Persuasion  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |  |  
+Religion  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |  
+Sleight of Hand  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +4 | ![check](https://i.imgur.com/84fRg7x.png) |  
+Stealth  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |  
+Survival  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |  
 
 ## Proficiencies
 
@@ -97,6 +90,7 @@ Feature | Description
 **Battle Ready**  |  When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways: You gain proficiency with martial weapons. When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
 **Steel Defender**  |  By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics. In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action. If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored. At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes.
 **Extra Attack**  |  Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+**Flash of Genius** |  Starting at 7th level, you gain the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll. You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ## Infusions
 
@@ -105,10 +99,14 @@ Feature | Description
 
 ## Spells
 
-**Spell Save DC:** 8 + Prof + Int  
-**Spell Attack Modifier:** Prof + Int  
+**Spell Save DC:** 15  
+**Spell Attack Modifier:** 7  
 
 #### Cantrips
+
+**Prestidigitation:**  
+
+**Mending**
 
 #### Battle Smith Spells
 
@@ -128,7 +126,7 @@ Artificer Level | Spells
 Level | Amount | Used
 --- | --- | ---
 1  | 4 |  
-2  | 2 |  
+2  | 3 |  
 3  | -- |  
 3  | -- |  
 5  | -- |  
