@@ -1,6 +1,6 @@
 # Aether
 
-A dangerous drug but incredibly psychoactive drug made by combining the following ingredients:
+A dangerous but incredibly psychoactive drug made by combining the following ingredients:
 - Crushed gems (15GP worth)
 - Peat
 - Pitch
