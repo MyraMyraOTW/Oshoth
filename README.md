@@ -1,10 +1,8 @@
-# ![DnDLogo](https://i.imgur.com/EGad7jq.png) Oshoth
+# ![DnDLogo](https://i.imgur.com/EGad7jq.png) Oshoth Nilyu
 
 ![OSHOTH](https://i.imgur.com/vrFzJL3l.pngg)
 
 ## Basic
-
-ASI please use  
 
 **Level:** 7   
 **XP:** 23,000  
@@ -102,13 +100,7 @@ Feature | Description
 **Spell Save DC:** 15  
 **Spell Attack Modifier:** 7  
 
-#### Cantrips
-
-**Prestidigitation:**  
-
-**Mending**
-
-#### Battle Smith Spells
+### Battle Smith Spells
 
 Artificer Level | Spells  
 --- | ---  
@@ -118,10 +110,22 @@ Artificer Level | Spells
 13  | aura of purity.fire shield    
 17  | banishing smite, mass cure wounds
 
+Level | Name | Casting Time | Range | Components | Duration | Link
+--- | --- | --- | --- | --- | --- | ---
 
-#### Spells
+### Prepared
 
-#### Slots
+Level | Name | Casting Time | Range | Components | Duration | Link
+--- | --- | --- | --- | --- | --- | ---
+
+### Spells
+
+Level | Name | Casting Time | Range | Components | Duration | Link
+--- | --- | --- | --- | --- | --- | ---
+0  | Mending | 1 Minute | Touch | V, S, M | Instantaneous | [Link](https://www.dnd-spells.com/spell/mending)
+0  | Prestidigitation | 1 Action | 10 feet | V, S | Up to 1 hour | [Link](https://www.dnd-spells.com/spell/prestidigitation)
+
+### Slots
 
 Level | Amount | Used
 --- | --- | ---
@@ -133,7 +137,7 @@ Level | Amount | Used
 
 ## Roleplaying
 
-#### Details
+### Details
 
 Oshoth is a muddy grey kobold with red highlights along the two horns framing striking red eyes and a constant sharp toothed smile. He has a small stature at 2' 3" and dresses in fine functional clothes with nary a spot on them. A curved copper pipe protrudes from his mouth constantly billowing multicoloured smoke.
 
@@ -146,23 +150,23 @@ Oshoth is a muddy grey kobold with red highlights along the two horns framing st
 **Weight:** 28 lbs  
 **Size:** Small  
 
-#### Personality Traits
+### Personality Traits
 
 Oshoth has a dangerous personality that is betrayed by his constant smile. He sounds deceptively cheerful at all times, hiding his anger well and showing no signs of outward annoyance. This belies his usually stewing anger that manifests while misleading people and acting contrary to his speech. He is a psychopath while under the effects of [Aether](Aether.md) and a monster when he is off the drug.
 
-#### Bonds
+### Bonds
 
 I will demolish those who stand in my way to power.
 
-#### Ideals
+### Ideals
 
 Quid Pro Quo is the way this world works, I'll barely lift a finger if the deal isn't fair.
 
-#### Flaws
+### Flaws
 
 I am a psychopath, and highly addicted to the substance known as [Aether](Aether.md)
 
-#### Backstory
+### Backstory
 
 Oshoth is an unsavory character, working his craft for those who pay his fees and keep his addictions going. Having been dragged into captivity at an early age into the mystical factories of the mysterious BlackHull Shipping Company to service the massive secret arcomechanical devices that make BlackHull a true naval powerhouse. The work was dangerous but still safer than the bosses and other workers, you were either fighting the machines innards or fighting the larger folk for food.  
 
@@ -174,7 +178,7 @@ A rebellion from the indentured servants caused severe damage to one of the arca
 
 Work on the side plying his knowledge of magical machinery for unsavory types kept him functional while topping up his supply of Aether. His preferences always lead him in the wrong direction, but this next job might help turn things around.
 
-#### Allies + Organizations
+### Allies + Organizations
 
 BlackHull Shipping Company [Old]:  
 Served as a Pit Boss for the Company. Worked operations involving the safe destruction of dangerous materials and overseeing the repair of the machines that kept the company running. The unfortunate fate of BlackHull's operations have labeled Oshoth dead and forgotten. They would be unlikely to help even if they made it to this continent.
@@ -191,7 +195,7 @@ Item | Type | Amount | Worth | Weight | Attuned | Description
 
 **Total Weight:**
 
-#### Priceless Items
+### Priceless Items
 
 ## Adventure Notes
 
@@ -214,7 +218,7 @@ STR | DEX | CON | INT | WIS | CHA
 **Senses** darkvision 60 ft., passive Perception 14  
 **Languages** understands the languages you speak  
 
-**Might of the Master.** The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).
+**Might of the Master.** The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).  
 **Vigilant.** The defender can't be surprised.
 
 ##### ACTIONS (REQUIRES YOUR BONUS ACTION)
