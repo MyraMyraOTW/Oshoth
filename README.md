@@ -69,7 +69,7 @@ Light  | ![Armour](https://i.imgur.com/wCdi5Ro.png) |
 Medium  | ![Armour](https://i.imgur.com/wCdi5Ro.png) |  
 Shields  | ![Armour](https://i.imgur.com/wCdi5Ro.png) |  
 
-**Languages:** Common, Draconic
+**Languages:** Common, Deep Speech
 
 ## Features
 
@@ -168,7 +168,11 @@ I am a psychopath, and highly addicted to the substance known as [Aether](Aether
 
 ### Backstory
 
-Oshoth is an unsavory character, working his craft for those who pay his fees and keep his addictions going. Having been dragged into captivity at an early age into the mystical factories of the mysterious BlackHull Shipping Company to service the massive secret arcomechanical devices that make BlackHull a true naval powerhouse. The work was dangerous but still safer than the bosses and other workers, you were either fighting the machines innards or fighting the larger folk for food.  
+Oshoth is an unsavory character, working his craft for those who pay his fees and keep his addictions going. Having been dragged into captivity at an early age into the mystical factories of the mysterious BlackHull Shipping Company to service the massive secret arcomechanical devices that make BlackHull a true naval powerhouse. The work was dangerous but still safer than the bosses and other workers, you were either fighting the machines innards or fighting the larger folk for food. No one escaped unscathed and Oshoth got caught out worst than most.  
+
+The mind is a fragile thing and when wild magic catches you in it's grasp anything can happen. Something dark and ancient touched Oshoth's mind, giving him his name and warping his mind into something alien. Oshoth became mute in his state and would mechanically complete his tasks with dull unblinking eyes. He would tear out spare parts from machines and use them to build an alien construct. Soon he was exposed to Aether as he wandered into a cloud that concentrated in one of the machine ducts. Like a lightning strike, some of his former self broke through his broken mind. He knew what he needed and he followed the wisps floating through the ducts.
+
+With mechanical motion he strode into the underbelly of the factory, stumbling on a makeshift Aether den. He walked in a daze, grabbing the first pipe he could reach from the ducts. Taking a deep breath and releasing a gout of multi coloured smoke, he smiled. A madman was brought into the world this day as his eyes closed and he gained clarity. It was his time to become something more.     
 
 Oshoth learned alot while huddled in those massive machines, about the way the world worked and how to bend it to his will. His tools were his brushes and those machines his canvas, consistent exemplary work lead to his promotion from indentured servitude to pit boss. Despite his small size Oshoth gave those under his command a reason to fear him, constant productivity increases were expected and he would do anything to meet the quotas, even kill. His knowledge gained from the machines brought him the inspiration to make an arcomechanical ranged weapon that acted as a force multiplier for him and his guards.
 
