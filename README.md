@@ -95,12 +95,38 @@ Feature | Description
 **Infusions Known:** 6  
 **Max Infused:** 3  
 
+**Repeating Shot**  
+Item: A simple or martial weapon with the ammunition property (requires attunement)  
+This magic weapon grants a + 1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it. If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.  
+
+**Replicate Magic Item: Alchemy Jug**  
+This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.  
+You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.  
+Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.  
+
+**Replicate Magic Item: Gloves of Thievery**  
+These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand checks and Dexterity checks made to pick locks.  
+
+**Enhanced Arcane Focus**  
+Item: A rod, staff, or wand (requires attunement)  
+While holding this item, a creature gains a + 1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack. The bonus increases to +2 when you reach 10th level in this class.  
+
+**Enhanced Defense**  
+Item: A suit of armor or a shield  
+A creature gains a + 1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item. The bonus increases to +2 when you reach 10th level in this class.
+
+**Enhanced Weapon**  
+Item: A simple or martial weapon  
+This magic weapon grants a + 1 bonus to attack and damage rolls made with it. The bonus increases to +2 when you reach 10th level in this class.  
+
 ## Spells
 
 **Spell Save DC:** 15  
 **Spell Attack Modifier:** 7  
 
 ### Battle Smith Spells
+
+**Always Prepared**  
 
 Artificer Level | Spells  
 --- | ---  
@@ -112,18 +138,31 @@ Artificer Level | Spells
 
 Level | Name | Casting Time | Range | Components | Duration | Link
 --- | --- | --- | --- | --- | --- | ---
+1 | Heroism | 1 Action | Touch | V,S | (C) up to 1 minute | https://www.dnd-spells.com/spell/heroism
+1 | Shield | Reaction | Self | V,S | 1 Round | https://www.dnd-spells.com/spell/shield
+2 | Branding Smite | 1 Bonus Action | Self | V | (C) up to 1 minute | https://www.dnd-spells.com/spell/branding-smite
+2 | Warding Bond | 1 Action | Touch | V,S,M (a pair of platinum rings worth at least 50 gp each, which you and target must wear for the duration) | 1 Hour | https://www.dnd-spells.com/spell/warding-bond
 
-### Prepared
-
-Level | Name | Casting Time | Range | Components | Duration | Link
---- | --- | --- | --- | --- | --- | ---
-
-### Spells
+### Cantrips
 
 Level | Name | Casting Time | Range | Components | Duration | Link
 --- | --- | --- | --- | --- | --- | ---
 0  | Mending | 1 Minute | Touch | V, S, M | Instantaneous | [Link](https://www.dnd-spells.com/spell/mending)
 0  | Prestidigitation | 1 Action | 10 feet | V, S | Up to 1 hour | [Link](https://www.dnd-spells.com/spell/prestidigitation)
+
+### Prepared
+
+**Maximum Prepared:** 7
+
+Level | Name | Casting Time | Range | Components | Duration | Link
+--- | --- | --- | --- | --- | --- | ---
+1  | Faerie Fire | 1 Action | 60 Feet | V | (C), up to 1 minute |  https://www.dnd-spells.com/spell/faerie-fire
+1  | Detect Magic | 1 Action | Self | V,S | (C), up to 1 hour |  https://www.dnd-spells.com/spell/detect-magic-ritual
+1  | Cure Wounds | 1 Action | Touch | V,S | (C), up to 1 minute |  https://www.dnd-spells.com/spell/cure-wounds
+1  | Sanctuary | 1 Bonus Action | 30 Feet | V,S,M (a small silver mirror) | 1 minute |  https://www.dnd-spells.com/spell/sanctuary
+2  | Blur | 1 Action | Self | V | Instantaneous |  https://www.dnd-spells.com/spell/blur
+2  | Enhance Ability | 1 Action | Touch | V,S,M (fur or a feather from a beast) | (C), up to 10 minute |  https://www.dnd-spells.com/spell/enhance-ability
+2  | Heat Metal | 1 Action | 60 Feet | V,S,M (a piece of iron and a flame) | (C), up to 1 minute |  https://www.dnd-spells.com/spell/heat-metal
 
 ### Slots
 
