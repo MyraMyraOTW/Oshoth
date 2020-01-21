@@ -9,16 +9,30 @@
 **Class:** Artificer 7 (Battle Smith)  
 **Hit Point Maximum:** 45  
 **Speed:** 30ft  
-**Initiative:**   
+**Initiative:** +1  
 **Hit Dice:** 6d8 (Used 0)  
 **Proficiency Bonus:** +3  
 **Carrying Capacity:** 120  
 **Inspiration:** No  
+**Passive Perception:** 11  
 
 ## Combat
 
 ##### Health Tracker
 Hit Point Current: 45
+
+##### Armour
+Armour Class: 13
+
+##### Letter of Resignation (Repeating Shot)
+**Extra Attack**  
+Hit: (Int) +7 (+8)  
+Attack: 1d10 Piercing +4 (+5)  
+Range: 40/160  
+Properties: Exemplary, Reload 6  
+
+##### Akashoth  
+Hit Point Current: 43  
 
 ## Abilities
 
@@ -99,10 +113,11 @@ Feature | Description
 Item: A simple or martial weapon with the ammunition property (requires attunement)  
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it. If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.  
 
-**Replicate Magic Item: Alchemy Jug**  
-This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.  
-You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.  
-Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.  
+**Replicate Magic Item: Bag of Holding**  
+This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.  
+If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.  
+Placing a bag of holding inside an extradimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
 
 **Replicate Magic Item: Gloves of Thievery**  
 These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand checks and Dexterity checks made to pick locks.  
@@ -133,7 +148,7 @@ Artificer Level | Spells
 3  | heroism, shield  
 5  | branding smite, warding bond  
 9  | aura of vitality, conjure barrage  
-13  | aura of purity.fire shield    
+13  | aura of purity. fire shield    
 17  | banishing smite, mass cure wounds
 
 Level | Name | Casting Time | Range | Components | Duration | Link
@@ -234,39 +249,62 @@ Platinum | Gold | Electrum | Silver | Copper
 
 Item | Type | Amount | Worth | Weight | Attuned | Description
 --- | --- | --- | --- | --- | --- | ---
-  |   |   |   |   |   |  
+Bag of Holding (Replicated)  | Magic Item | 1 |   |   | - |  
+Gloves of Thievery (Replicated)  | Magic Item | 1 |   |   | - |  
+Chain Shirt  | Armour | 1 |   |   |   |  
+Letter of Resignation  | Weapon | 1 |   |   | Yes |  
+Shiftweave  | Magic Item | 1 |   |  | Yes |  
+Immovable Rod  | Magic Item | 1 |   |   | - |  
+Aether  | Drug | 6 | 15GP | - | - | [Aether](Aether.md)  
 
 **Total Weight:**
+
+### Attuned Items
+
+**Max Attuned:** 3  
+
+Item | Attuned
+--- | ---
+Shiftweave | Yes  
+Letter of Resignation | Yes  
 
 ### Priceless Items
 
 ## Adventure Notes
 
+**Day 1**  
+After fleeing Cindra, I've met up with a group of adventurers called the Seekers providing combat services in exchange for getting away with a capable group.  
+
+**Day 2**  
+Trekking into the forest on the trail of turncloaks we have met the individual called Laura after she's been tracking us, she's a member of the red hoods. After some difficulty persuading Laura to help us save Avery from the mysterious group with a troll (The silver fox's).   
+
+
 ---
 
+## Akashoth
 ## Steel Defender
 ##### Medium construct, neutral
 **Armor Class** 15 (natural armor)  
-**Hit Points** equal the steel defender's Constitution modifier + your Intelligence modifier + five times your level in this class  
+**Hit Points** 43  
 **Speed** 40 ft.  
 
 STR | DEX | CON | INT | WIS | CHA
 --- | --- | --- | --- | --- | ---
 14 (+2) | 12 (+1) | 14 (+2) | 4 (-4) | 10 (0) | 6 (-2)
 
-**Saving Throws** Dex +3, Con +4  
-**Skills** Athletics +4, Perception +4  
+**Saving Throws** Dex +4, Con +5  
+**Skills** Athletics +5, Perception +5  
 **Damage Immunities** poison  
 **Condition** Immunities charmed, exhaustion, poisoned  
-**Senses** darkvision 60 ft., passive Perception 14  
-**Languages** understands the languages you speak  
+**Senses** darkvision 60 ft., passive Perception 15  
+**Languages** Common, Deep Speech  
 
 **Might of the Master.** The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).  
 **Vigilant.** The defender can't be surprised.
 
 ##### ACTIONS (REQUIRES YOUR BONUS ACTION)
-**Force-Empowered Rend.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target you can see. Hit: l d8 + 2 force damage.  
-**Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + 2 hit points to itself or to one construct or object within 5 feet of it.
+**Force-Empowered Rend.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target you can see. Hit: l d8 + 3 force damage.  
+**Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + 3 hit points to itself or to one construct or object within 5 feet of it.
 
 ##### REACTION
 **Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
