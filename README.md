@@ -31,8 +31,33 @@ Attack: 1d10 Piercing +4 (+5)
 Range: 40/160  
 Properties: Exemplary, Reload 6  
 
-##### Akashoth  
-Hit Point Current: 43  
+#### Akashoth
+##### Medium construct, neutral
+**Armor Class:** 15 (natural armor)  
+**Hit Points (max: 43):**  43  
+**Speed:** 40 ft.  
+
+STR | DEX | CON | INT | WIS | CHA
+--- | --- | --- | --- | --- | ---
+14 (+2) | 12 (+1) | 14 (+2) | 4 (-4) | 10 (0) | 6 (-2)
+
+**Saving Throws** Dex +4, Con +5  
+**Skills** Athletics +5, Perception +5  
+**Damage Immunities** poison  
+**Condition** Immunities charmed, exhaustion, poisoned  
+**Senses** darkvision 60 ft., passive Perception 15  
+**Languages** Common, Deep Speech  
+
+**Might of the Master.** The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).  
+**Vigilant.** The defender can't be surprised.
+
+##### ACTIONS (REQUIRES YOUR BONUS ACTION)
+**Force-Empowered Rend.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target you can see. Hit: l d8 + 3 force damage.  
+**Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + 3 hit points to itself or to one construct or object within 5 feet of it.
+
+##### REACTION
+**Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+
 
 ## Abilities
 
@@ -245,19 +270,31 @@ Served as a Pit Boss for the Company. Worked operations involving the safe destr
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
- | | | |
+- | 10 | - | - | -
 
 Item | Type | Amount | Worth | Weight | Attuned | Description
 --- | --- | --- | --- | --- | --- | ---
-Bag of Holding (Replicated)  | Magic Item | 1 |   |   | - |  
-Gloves of Thievery (Replicated)  | Magic Item | 1 |   |   | - |  
-Chain Shirt  | Armour | 1 |   |   |   |  
-Letter of Resignation  | Weapon | 1 |   |   | Yes |  
-Shiftweave  | Magic Item | 1 |   |  | Yes |  
-Immovable Rod  | Magic Item | 1 |   |   | - |  
+Bag of Holding (Replicated)  | Magic Item | 1 | - | 15 lbs. | - | DMG 153
+Gloves of Thievery (Replicated)  | Magic Item | 1 | - | - | - | DMG 172
+Chain Shirt  | Armour | 1 | 50GP | 20 lbs. | - |  
+Letter of Resignation  | Weapon | 1 | 500GP | 4 lbs. | Yes |  
+Shiftweave  | Magic Item | 1 | ? | 2 lbs. | Yes |  
+Immovable Rod  | Magic Item | 1 | ? | 1 lb. | - | DMG 175
 Aether  | Drug | 6 | 15GP | - | - | [Aether](Aether.md)  
+Tinker's Tools  | Tool | 1 | 50GP | 10 lbs. | - |  
+Thieves Tools  | Tool | 1 | 25GP | 1 lb. | - |  
+Bedroll  | Misc. | 1 | 1GP | 7 lbs. | - |  
+Mess Kit  | Misc. | 1 | 2SP | 1 lb. | - |  
+Tinderbox  | Misc. | 1 | 5SP | 1 lb. | - |  
+Rations  | Food | 10 | 5SP | 20  lb. | - |  
+Waterskin  | Misc. | 1 | 2SP | 5 lb. | - |  
+Rope  | Misc. | 50 | 1GP | 10 lb. | - |
 
-**Total Weight:**
+**See Tools: Xanathars 78**  
+
+**Total Weight:** 97 lbs.  
+
+**Total Weight (BoH):** 41 lbs.  
 
 ### Attuned Items
 
@@ -277,34 +314,3 @@ After fleeing Cindra, I've met up with a group of adventurers called the Seekers
 
 **Day 2**  
 Trekking into the forest on the trail of turncloaks we have met the individual called Laura after she's been tracking us, she's a member of the red hoods. After some difficulty persuading Laura to help us save Avery from the mysterious group with a troll (The silver fox's).   
-
-
----
-
-## Akashoth
-## Steel Defender
-##### Medium construct, neutral
-**Armor Class** 15 (natural armor)  
-**Hit Points** 43  
-**Speed** 40 ft.  
-
-STR | DEX | CON | INT | WIS | CHA
---- | --- | --- | --- | --- | ---
-14 (+2) | 12 (+1) | 14 (+2) | 4 (-4) | 10 (0) | 6 (-2)
-
-**Saving Throws** Dex +4, Con +5  
-**Skills** Athletics +5, Perception +5  
-**Damage Immunities** poison  
-**Condition** Immunities charmed, exhaustion, poisoned  
-**Senses** darkvision 60 ft., passive Perception 15  
-**Languages** Common, Deep Speech  
-
-**Might of the Master.** The following numbers increase by 1 when your proficiency bonus increases by 1: the defender's skill and saving throw bonuses (above), the bonuses to hit and damage of its rend attack, and the number of hit points restored by its Repair action (below).  
-**Vigilant.** The defender can't be surprised.
-
-##### ACTIONS (REQUIRES YOUR BONUS ACTION)
-**Force-Empowered Rend.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target you can see. Hit: l d8 + 3 force damage.  
-**Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + 3 hit points to itself or to one construct or object within 5 feet of it.
-
-##### REACTION
-**Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
