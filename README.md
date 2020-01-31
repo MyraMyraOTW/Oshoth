@@ -270,7 +270,7 @@ Served as a Pit Boss for the Company. Worked operations involving the safe destr
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
-- | 10 | - | - | -
+-- | 10 | -- | -- | --
 
 Item | Type | Amount | Worth | Weight | Attuned | Description
 --- | --- | --- | --- | --- | --- | ---
