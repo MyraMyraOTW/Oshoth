@@ -4,13 +4,13 @@
 
 ## Basic
 
-**Level:** 7   
-**XP:** 23,000  
-**Class:** Artificer 7 (Battle Smith)  
-**Hit Point Maximum:** 45  
+**Level:** 8   
+**XP:** 34,000  
+**Class:** Artificer 8 (Battle Smith)  
+**Hit Point Maximum:** 52  
 **Speed:** 30ft  
 **Initiative:** +1  
-**Hit Dice:** 6d8 (Used 0)  
+**Hit Dice:** 7d8 (Used 6)  
 **Proficiency Bonus:** +3  
 **Carrying Capacity:** 120  
 **Inspiration:** No  
@@ -19,15 +19,15 @@
 ## Combat
 
 ##### Health Tracker
-Hit Point Current: 45
+Hit Point Current: 52  
 
 ##### Armour
-Armour Class: 13
+Armour Class: 13  
 
 ##### Letter of Resignation (Repeating Shot)
 **Extra Attack**  
-Hit: (Int) +7 (+8)  
-Attack: 1d10 Piercing +4 (+5)  
+Hit: (Int) +8 (+9)  
+Attack: 1d10 Piercing +5 (+6)  
 Range: 40/160  
 Properties: Exemplary, Reload 6  
 
@@ -63,8 +63,8 @@ STR | DEX | CON | INT | WIS | CHA
 
 Ability | Score | Bonus | Proficiency | Saving Throw  
 --- | --- | --- | --- | ---
-Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 12 | +2 |  | +2  
-Constitution | 14 | +1 | ![check](https://i.imgur.com/84fRg7x.png) | +4  
+Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 12 | +1 |  | +1  
+Constitution | 14 | +2 | ![check](https://i.imgur.com/84fRg7x.png) | +4  
 Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 12 | +1 |  | +1  
 Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 20 | +5 | ![check](https://i.imgur.com/84fRg7x.png) | +8  
 Strength ![Strength](https://i.imgur.com/Fh83ei3.png) | 8 | -1 | | -1  
@@ -78,16 +78,16 @@ Acrobatics  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |
 Animal Handling  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |  
 Arcana  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +8 | ![check](https://i.imgur.com/84fRg7x.png) |  
 Athletics  | ![Strength](https://i.imgur.com/Fh83ei3.png) | -1 |   |  
-Deception  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 | ![check](https://i.imgur.com/84fRg7x.png) |  
+Deception  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +4 | ![check](https://i.imgur.com/84fRg7x.png) |  
 History  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |   
 Insight  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
-Intimidation  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 |  ![check](https://i.imgur.com/84fRg7x.png) |   
+Intimidation  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +4 |  ![check](https://i.imgur.com/84fRg7x.png) |   
 Investigation  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |   
 Medicine  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
 Nature  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |  |  
 Perception  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |  |  
-Performance  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |   |  
-Persuasion  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |  |  
+Performance  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +1 |   |  
+Persuasion  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +1 |  |  
 Religion  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |  
 Sleight of Hand  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +4 | ![check](https://i.imgur.com/84fRg7x.png) |  
 Stealth  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |  
