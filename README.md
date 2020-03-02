@@ -209,7 +209,7 @@ Level | Name | Casting Time | Range | Components | Duration | Link
 Level | Amount | Used
 --- | --- | ---
 1  | 4 |  
-2  | 3 |  
+2  | 3 | 2  
 3  | -- |  
 3  | -- |  
 5  | -- |  
@@ -280,7 +280,7 @@ Chain Shirt  | Armour | 1 | 50GP | 20 lbs. | - |
 Letter of Resignation  | Weapon | 1 | 500GP | 4 lbs. | Yes |  
 Shiftweave  | Magic Item | 1 | ? | 2 lbs. | Yes |  
 Immovable Rod  | Magic Item | 1 | ? | 1 lb. | - | DMG 175
-Aether  | Drug | 6 | 15GP | - | - | [Aether](Aether.md)  
+Aether  | Drug | 3 | 15GP | - | - | [Aether](Aether.md)  
 Tinker's Tools  | Tool | 1 | 50GP | 10 lbs. | - |  
 Thieves Tools  | Tool | 1 | 25GP | 1 lb. | - |  
 Bedroll  | Misc. | 1 | 1GP | 7 lbs. | - |  
@@ -288,7 +288,10 @@ Mess Kit  | Misc. | 1 | 2SP | 1 lb. | - |
 Tinderbox  | Misc. | 1 | 5SP | 1 lb. | - |  
 Rations  | Food | 10 | 5SP | 20  lb. | - |  
 Waterskin  | Misc. | 1 | 2SP | 5 lb. | - |  
-Rope  | Misc. | 50 | 1GP | 10 lb. | - |
+Rope  | Misc. | 50 | 1GP | 10 lb. | - |  
+Behir Teeth  | Monster Item | 4 | ? | ? | - |  
+Behir Tongue  | Monster Item | 1 | ? | ? | - |  
+Behir Lightning Gland  | Monster Item | 1 | ? | ? | - |  
 
 **See Tools: Xanathars 78**  
 
