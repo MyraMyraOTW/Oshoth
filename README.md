@@ -66,7 +66,7 @@ Ability | Score | Bonus | Proficiency | Saving Throw
 Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 12 | +2 |  | +2  
 Constitution | 14 | +1 | ![check](https://i.imgur.com/84fRg7x.png) | +4  
 Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 12 | +1 |  | +1  
-Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 18 | +4 | ![check](https://i.imgur.com/84fRg7x.png) | +7  
+Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 20 | +5 | ![check](https://i.imgur.com/84fRg7x.png) | +8  
 Strength ![Strength](https://i.imgur.com/Fh83ei3.png) | 8 | -1 | | -1  
 Wisdom ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 12 | +1 | | +1  
 
@@ -76,19 +76,19 @@ Skill | Ability | Bonus | Proficiency | Expertise
 --- | --- | --- | --- | ---
 Acrobatics  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |  
 Animal Handling  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |  
-Arcana  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +7 | ![check](https://i.imgur.com/84fRg7x.png) |  
+Arcana  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +8 | ![check](https://i.imgur.com/84fRg7x.png) |  
 Athletics  | ![Strength](https://i.imgur.com/Fh83ei3.png) | -1 |   |  
 Deception  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 | ![check](https://i.imgur.com/84fRg7x.png) |  
-History  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |   
+History  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |   
 Insight  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
 Intimidation  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +5 |  ![check](https://i.imgur.com/84fRg7x.png) |   
-Investigation  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |   
+Investigation  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |   
 Medicine  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |   
-Nature  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |  |  
+Nature  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |  |  
 Perception  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |  |  
 Performance  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |   |  
 Persuasion  | ![Charisma](https://i.imgur.com/m1q3OzE.png) | +2 |  |  
-Religion  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +4 |   |  
+Religion  | ![Intelligence](https://i.imgur.com/aJvt6zX.png) | +5 |   |  
 Sleight of Hand  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +4 | ![check](https://i.imgur.com/84fRg7x.png) |  
 Stealth  | ![Dexterity](https://i.imgur.com/wMNL0JE.png) | +1 |   |  
 Survival  | ![Wisdom](https://i.imgur.com/kCsdGv9.png) | +1 |   |  
@@ -161,8 +161,8 @@ This magic weapon grants a + 1 bonus to attack and damage rolls made with it. Th
 
 ## Spells
 
-**Spell Save DC:** 15  
-**Spell Attack Modifier:** 7  
+**Spell Save DC:** 16  
+**Spell Attack Modifier:** 8  
 
 ### Battle Smith Spells
 
